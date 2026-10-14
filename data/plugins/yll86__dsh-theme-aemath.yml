@@ -1,0 +1,6 @@
+url: https://github.com/yll86/dsh-theme-aemath
+name: yll86/dsh-theme-aemath
+category: theme
+description:
+  en: 'Client theme plugin for the DSH Web GUI: a light and a dark palette that cover the whole --dsw-* design-token set (buttons, links, selection, scrollbars, code blocks), conversation-background key art faded out along the left edge, a circular badge at the bottom-left, and a pixel-art favicon. Both palettes ship in one package and follow the built-in light/dark preference; the stylesheet, artwork and favicon are inlined at build time, so the plugin makes no network requests.'
+  zh: 'DeepSeek Harness Web 界面主题插件：浅色与深色两套配色覆盖整套 --dsw-* 设计令牌（按钮、链接、选中态、滚动条、代码块），对话区背景立绘沿左侧淡出，左下角圆形徽章，以及像素画 favicon。两套配色打包在一起，跟随内置的浅色/深色偏好；样式表、立绘与 favicon 均在构建期内联，插件不发起任何网络请求。'
